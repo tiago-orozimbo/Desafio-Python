@@ -9,4 +9,15 @@
   
   ![Dashboard da Temperatura mundial](https://github.com/tiago-orozimbo/Desafio-Python/assets/166767028/02a5ec7d-e78d-4ddb-ab62-a3a6919d8962)
 
+  ## Tecnologias utilizadas para criação do dashboard
+  - O dashboard foi programado em liguagem Python e utilizou o frameworks Flask e as bibliotecas streamlit, pandas e plotly.
+  ## Dados
+  - Os dados utilizados são disponibilizados pelo website Kaggle. O nome do arquivo é **Daily Temperature of Major Cities**.
+  - Neste arquivo cotém os dados de temperatura das principais cidades de cada país, no periodo de 1995 à 2020.
+  - Os dados são organizados por continente, país, cidade, ano, mês e dia.
+  ## Intruções
+  - Para utilizar o Dashboard da Temperatura mundial basta escolher uma cidade que queira avaliar sua temperatura e buscar-la através dos filtros que se encontram na Sidebar. Caso não encontre a cidade desejada, pode-se avaliar a temperatura média do páis ao longo dos anos pelo gráfico de mapa.
+ 
+  # IMPORTANTE - As temperaturas fornecidades encontram-se em **fahrenheit**
+
  
