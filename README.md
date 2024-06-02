@@ -7,7 +7,8 @@
 - **Gráfico de Mapa** - Exibe os dados de temperatura Média dos países em um ano específico. Logo, assim é possível realizar uma comparação mais acertiva sobre a mudança de temperatura média nos países ao longo dos anos. entretanto, vale resaltar que a acertividade da temperatura média é totalmente dependente da quantidade de dados coletados. Assim, os países que possuem mais dados fornecem uma temperatura média com maior proximidade da realidade.
 - **Gráfico de Linhas** - Exibe os dados de temperatura média ao longo dos meses, permitindo a comparação da evolução da temperatura.
   
-  ![Dashboard da Temperatura mundial](https://github.com/tiago-orozimbo/Desafio-Python/assets/166767028/02a5ec7d-e78d-4ddb-ab62-a3a6919d8962)
+  ![Dashboard da Temperatura mundial](https://github.com/tiago-orozimbo/Desafio-Python/assets/166767028/d4d0155a-7d38-47b1-b23b-ab69cdbb8b98)
+
 
   ## Tecnologias utilizadas para criação do dashboard
   - O dashboard foi programado em liguagem Python e utilizou o frameworks Flask e as bibliotecas streamlit, pandas e plotly.
