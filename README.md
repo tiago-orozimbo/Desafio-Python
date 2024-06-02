@@ -19,6 +19,6 @@
   - Para utilizar o Dashboard da Temperatura mundial basta escolher uma cidade que queira avaliar sua temperatura e buscar-la através dos filtros que se encontram na Sidebar. Caso não encontre a cidade desejada, pode-se avaliar a temperatura média do páis ao longo dos anos pelo gráfico de mapa.
  
   # IMPORTANTE - As temperaturas fornecidades encontram-se em **fahrenheit**
-  ## Desenvolvido por  # Tiago Orozimbo
+  ## Desenvolvido por  Tiago Orozimbo
   ## Email: tiago.orozimbo@outlook.com
  
