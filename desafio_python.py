@@ -45,7 +45,7 @@ with st.container(): #Trtamento dos dados para os gráficos
             clima = clima.loc[clima['City'] == city]
             clima5 = clima5.loc[clima5['City'] == city]
         with st.container(): #Year
-            year = st.selectbox("Selecione o Ano", [1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020])
+            year = st.selectbox("Selecione o Ano", [1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2009,2010,2011,2013,2014,2015,2017,2018,2019,2020])
             clima= clima.loc[clima['Year'] == year]
             clima2= clima2.loc[clima2['Year'] == year]
             clima4 = clima.loc[clima['Year'] == year]
